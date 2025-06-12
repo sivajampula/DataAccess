@@ -1,0 +1,6 @@
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\bin\Release\EarlFileWatcher.DataAccess.dll
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\bin\Release\EarlFileWatcher.DataAccess.pdb
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\obj\Release\EarlFileWatcher.DataAccess.csproj.AssemblyReference.cache
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\obj\Release\EarlFileWatcher.DataAccess.csproj.CoreCompileInputs.cache
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\obj\Release\EarlFileWatcher.DataAccess.dll
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\obj\Release\EarlFileWatcher.DataAccess.pdb

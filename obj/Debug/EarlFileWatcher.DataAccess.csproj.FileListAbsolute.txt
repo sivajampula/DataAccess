@@ -1,0 +1,11 @@
+J:\Projects\Email Automation Reporting Layer\Windows\EarlFileWatcher\EarlFileWatcher\EarlFileWatcher.DataAccess\bin\Debug\EarlFileWatcher.DataAccess.dll
+J:\Projects\Email Automation Reporting Layer\Windows\EarlFileWatcher\EarlFileWatcher\EarlFileWatcher.DataAccess\bin\Debug\EarlFileWatcher.DataAccess.pdb
+J:\Projects\Email Automation Reporting Layer\Windows\EarlFileWatcher\EarlFileWatcher\EarlFileWatcher.DataAccess\obj\Debug\EarlFileWatcher.DataAccess.csproj.CoreCompileInputs.cache
+J:\Projects\Email Automation Reporting Layer\Windows\EarlFileWatcher\EarlFileWatcher\EarlFileWatcher.DataAccess\obj\Debug\EarlFileWatcher.DataAccess.dll
+J:\Projects\Email Automation Reporting Layer\Windows\EarlFileWatcher\EarlFileWatcher\EarlFileWatcher.DataAccess\obj\Debug\EarlFileWatcher.DataAccess.pdb
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\bin\Debug\EarlFileWatcher.DataAccess.dll
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\bin\Debug\EarlFileWatcher.DataAccess.pdb
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\obj\Debug\EarlFileWatcher.DataAccess.csproj.AssemblyReference.cache
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\obj\Debug\EarlFileWatcher.DataAccess.csproj.CoreCompileInputs.cache
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\obj\Debug\EarlFileWatcher.DataAccess.dll
+J:\Projects\EARL\Code\SnowToEarl\EarlFileWatcher.DataAccess\obj\Debug\EarlFileWatcher.DataAccess.pdb
